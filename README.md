@@ -1,4 +1,6 @@
 ## Laboon
+
+[![Join the chat at https://gitter.im/golaboon/Lobby](https://badges.gitter.im/golaboon/Lobby.svg)](https://gitter.im/golaboon/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/imamdigmi/laboon.svg?branch=master)](https://travis-ci.org/imamdigmi/laboon)
 Client web app for monitoring your docker with [Godoremi](https://github.com/orcinustools/godoremi)
 
